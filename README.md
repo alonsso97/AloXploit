@@ -1,9 +1,12 @@
-# aloxploit-v1-project // This application has no support since 2022.
+# aloxploit-v2 // This application has no support since 19-02-2024.
 
 Aloxploit was my first project.
+"aloxploit-2.9" was a project for "Hack and Beers 2024 MorterueloCON"
 
-Aloxploit was my final ASIR project. The file is only valid for Kali Linux. This is the first version of project. This script is developed in bash. You will need know about of metasploit, shellter, Linux commands, setoolkit, nmap... If you want start this file, you will be need superuser. Use "bash aloxploit.sh" to run. Demo version.
+Unsupported / Creating a new version...
 
-Version de prueba. Los shellcodes no son aptos para Windows 10 ni para las últimas versiones de las app Android ya que son detectados por la mayoría de antivirus. Actualmente su funcionamiento es apto para sistemas desactualizados. La pruebas de funcionamiento de las intrusiones han sido realizadas en sistemas Windows 7 y Vista. Y con aplicaciones de Android más antiguas: Spotify 8.4.
+The file is only valid for Kali Linux. This is the second version of project. This script is developed in bash. You will need know about of metasploit, shellter, Linux commands, setoolkit, nmap... If you want start this file, you will be need superuser. Use "bash aloxploit.sh" to run. Demo version.
 
--IMPORTANTE- Para poder realizar el Phishing fuera de tu red, debes estar registrado en ngrok y haber añadido el token a la herramienta: "./ngrok config add-authtoken (token)"
+The intrusion tests have been carried out on Windows 7 and Vista systems. And with older Android apps: Spotify 8.4.
+
+--IMPORTANT-- For the "phishing attack," you need to have ngrok or pagekite installed and registered to create a tunnel off LAN.
