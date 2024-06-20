@@ -14,15 +14,10 @@ The intrusion tests have been carried out on Windows 7 and Vista systems. And wi
 
 Aloxploit has two versions. These versions is available in "releases".
 
-AloXploit-v2 example:
 
-1. Main menu:
+
+ Main menu:
 
 ![imagen](https://github.com/alonsso97/AloXploit/assets/173309286/2ae8cba4-f8cb-4875-946e-840050096a90)
 
-
-2. Phishing example:
-
-   
-4. Infected apk example:
 
