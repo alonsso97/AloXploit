@@ -10,3 +10,19 @@ The file is only valid for Kali Linux. This is the second version of project. Th
 The intrusion tests have been carried out on Windows 7 and Vista systems. And with older Android apps: Spotify 8.4.
 
 --IMPORTANT-- For the "phishing attack," you need to have ngrok or pagekite installed and registered to create a tunnel off LAN.
+
+
+Aloxploit has two versions. These versions is available in "releases".
+
+AloXploit-v2 example:
+
+1. Main menu:
+
+![imagen](https://github.com/alonsso97/AloXploit/assets/173309286/2ae8cba4-f8cb-4875-946e-840050096a90)
+
+
+2. Phishing example:
+
+   
+4. Infected apk example:
+
